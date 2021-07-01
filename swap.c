@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<stdlib.h>
 
 void ssort(int arr[],int l)
 {
